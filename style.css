@@ -23,6 +23,8 @@ body{
     position: absolute;
     bottom:0;
     left: 52px;
+    display: flex; 
+    flex-direction: row-reverse; 
 }
 
 .obstacle{
