@@ -15,7 +15,7 @@ body{
 }
 
 .dino{
-    background-image: url(AngryDino.png);
+    background-image: url(dino.png);
     background-repeat: no-repeat;
     background-size: cover;
     width: 233px;
@@ -90,7 +90,7 @@ body{
     padding:15px 25px;
     background-color: #4caf5c;
     font-size: 48px;
-    margin-left: 1495px;
+    margin-left: 1000px;
     margin-top: 80px;
     font-size: 30px;
     text-align: center;
